@@ -1,0 +1,28 @@
+{
+  "name": "generator-android-project",
+  "version": "0.1.0",
+  "description": "Yeoman generator for scaffolding Android Projects.",
+  "homepage": "https://github.com/bschramke/generator-android-project",
+  "author": {
+    "name": "Björn Schramke",
+    "email": "bjoern@schramke-online.de",
+    "url": "https://github.com/bschramke"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "Android",
+    "Java",
+    "Kotlin"
+  ],
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "mkdirp": "^0.5.1",
+    "yeoman-generator": "^1.1.1",
+    "yosay": "^2.0.1"
+  },
+  "devDependencies": {},
+  "license": "Apache-2.0"
+}
